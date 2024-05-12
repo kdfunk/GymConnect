@@ -1,0 +1,17 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">ConnectGym</string>
+    <string name="login_instead">Login instead</string>
+    <string name="register_instead">Register instead</string>
+    <string name="location_prompt">Select a location</string>
+    <string name="class_type_prompt">Select a class type</string>
+    <string name="price_range_prompt">Select a price range</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="back_button">Back</string>
+    <string name="back_button_description">Go back</string>
+    <string name="detail_gym">Book Class</string>
+</resources>
